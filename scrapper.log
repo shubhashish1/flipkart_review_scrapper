@@ -1,0 +1,19 @@
+2023-08-24 12:45:34,348 -  * Debugger is active!
+2023-08-24 12:45:34,363 -  * Debugger PIN: 449-510-759
+2023-08-24 12:45:34,416 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-08-24 12:45:38,779 -  * Restarting with stat
+2023-08-24 12:45:40,004 -  * Debugger is active!
+2023-08-24 12:45:40,011 -  * Debugger PIN: 449-510-759
+2023-08-24 12:45:40,058 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-08-24 12:46:13,587 - 127.0.0.1 - - [24/Aug/2023 12:46:13] "GET / HTTP/1.1" 200 -
+2023-08-24 12:46:13,665 - 127.0.0.1 - - [24/Aug/2023 12:46:13] "GET /static/css/main.css HTTP/1.1" 304 -
+2023-08-24 12:46:13,746 - 127.0.0.1 - - [24/Aug/2023 12:46:13] "GET /static/css/style.css HTTP/1.1" 304 -
+2023-08-24 12:46:29,806 - Product, Customer Name, Rating, Heading, Comment 
+
+2023-08-24 12:46:29,817 - no name
+2023-08-24 12:46:29,818 - No Rating
+2023-08-24 12:46:29,818 - No Comment Heading
+2023-08-24 12:46:29,924 - reviews scrapped and stored in table format successfully
+2023-08-24 12:46:30,003 - 127.0.0.1 - - [24/Aug/2023 12:46:30] "POST /review HTTP/1.1" 200 -
+2023-08-24 12:46:30,061 - 127.0.0.1 - - [24/Aug/2023 12:46:30] "GET /style.css HTTP/1.1" 404 -
+2023-08-24 12:46:30,066 - 127.0.0.1 - - [24/Aug/2023 12:46:30] "GET /static/css/style.css HTTP/1.1" 304 -
